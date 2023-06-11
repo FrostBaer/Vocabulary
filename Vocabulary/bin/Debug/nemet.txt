@@ -1,0 +1,21 @@
+﻿langweilig:unalmas:
+die Aussage:kijelentés:Könnte diese Aussage von dir stammen? (Ez a kijelentés akár tőled is származhatna?)
+stammen (von +D):származik (vkitől):Könnte diese Aussage von dir stammen? (Ez a kijelentés akár tőled is származhatna?)
+sinnlos:értelmetlen:Alles kommt ihm langweilig und sinnlos vor. (Minden unalmasnak és értelmetlennek tűnik számára.)
+vorkommen:tűnik:Alles kommt ihm langweilig und sinnlos vor. (Minden unalmasnak és értelmetlennek tűnik számára.)
+das Vorkommnis:eset, előfordulás:Ein peinliches, skandalöses, bedauerliches Vorkommnis. (Egy kínos, botrányos, szerencsétlen eset.)
+peinlich:kínos:Ein peinlicher Zwischenfall. (Egy kínos incidens.) Ein peinliches Vorkommnis. (Egy kínos eset.)
+skandalös:botrányos
+bedauerlich:szerencsétlen, sajnálatos
+der Zwischenfall:incidens:Ein peinlicher Zwischenfall. (Egy kínos incidens.)
+der Irrtum:tévedés:Ein bedauerlicher Irrtum. (Egy sajnálatos tévedés.) Ihm ist ein Irrtum (ein Fehler, ein Versehen) unterlaufen. (Hibát követett el.)
+wieso:hogyhogy:Wieso kommst du zu spät? (Hogyhogy ilyen későn jössz?)
+erloschen:letűnt:Seine Jugendzeit ist erloschen. (Letűnt a fiatalkora.) Der Vulkan ist erloschen. (A vulkán kialudt.)
+erlöschen (erlischt, ist erloschen):kialszik, megszűnik:Das Feuer erlischt. (A tűz kialszik.) Er spricht mit erlöschender Stimme. (Elhaló hangon beszél.)
+verspüren:elér, megszerez:Ich verspürte nicht die geringste Müdigkeit. (Szemernyi fáradtságot sem éreztem.)
+die Gültigkeit:érvényesség:Das Gesetz hat Gültigkeit erlangt.
+das Gesetz:törvény, szabály:Das Gesetz hat Gültigkeit erlangt.
+erlangen (-te, hat -t):megszerez:Das Gesetz hat Gültigkeit erlangt.
+wahrnehmen (nimmt wahr, hat wahrgenommen):érzékel, tapasztal:Ein Geräusch, einen Geruch, einen Lichtschein wahrnehmen. (Hangot, illatot, fényt érzékelni.) Er hat so fest geschlafen, dass er von dem Gewitter überhaupt nichts wahrgenommen hat. (Olyan mélyen aludt, hogy semmit nem vett észre a viharból.)
+das Gewitter:zivatar:Er hat so fest geschlafen, dass er von dem Gewitter überhaupt nichts wahrgenommen hat. (Olyan mélyen aludt, hogy semmit nem vett észre a viharból.)
+gering:csekély:Es stört mich nicht im Geringsten. (Legkevésbé sem zavar.) Das Geringste, was er tun kann, ist dies. (Ez a legkevesebb, amit megtehet.)

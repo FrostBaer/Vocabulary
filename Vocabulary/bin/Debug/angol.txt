@@ -1,0 +1,3 @@
+﻿word:szó:This is a sentence with the word "word".
+english:angol:I'm an englishman in New York.
+test:teszt
